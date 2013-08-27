@@ -3,5 +3,5 @@ App-emol.Automoviles
 
 Desarrolladores
 ====================
-Nicolás Rubilar
+Nicolás Rubilar A
 Matías Salvadores
