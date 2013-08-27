@@ -2,7 +2,7 @@ App-emol.Automoviles
 ====================
 
 Desarrolladores
-ss
+SS
 Nicolás Rubilar
 Matías Salvadores 
 
